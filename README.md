@@ -1,16 +1,14 @@
-## Hi there 👋
+# Automated by Alex
 
-<!--
-**AutomatedByAlex/AutomatedByAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation • AI • Systems
 
-Here are some ideas to get you started:
+I build practical automations that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Workflow automation
+- AI agents
+- Systems thinking
+- Real-world execution
+
+## Contact
+hello@automatedbyalex.com
